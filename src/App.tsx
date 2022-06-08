@@ -4,11 +4,13 @@ import Sidebar from "./components/Sidebar";
 function App() {
     return (
         //* Main structure.
-        <div className="w-full h-screen bg-discord-gray-800">
+        <div className="w-full h-screen flex items-center justify-center bg-discord-gray-800">
             {/* Sidebar */}
+
             <Sidebar />
+
             {/* Content */}
-            <div></div>
+            <div className="text-4xl opacity-50 ">✌😃</div>
         </div>
     );
 }
