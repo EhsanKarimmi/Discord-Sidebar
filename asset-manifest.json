@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Discord-Sidebar/static/css/main.1bcb9eeb.css",
+    "main.js": "/Discord-Sidebar/static/js/main.0b7b3531.js",
+    "index.html": "/Discord-Sidebar/index.html",
+    "main.1bcb9eeb.css.map": "/Discord-Sidebar/static/css/main.1bcb9eeb.css.map",
+    "main.0b7b3531.js.map": "/Discord-Sidebar/static/js/main.0b7b3531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bcb9eeb.css",
+    "static/js/main.0b7b3531.js"
+  ]
+}
